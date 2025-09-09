@@ -66,7 +66,7 @@ A simple console app demonstrating an e-commerce workflow.
 
 ### 📬 How to Reach Me
 - 📧 Email: **mathan.kpv@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 💼 LinkedIn: [linkedin.com/in/mathan-kpv](#)  
 - 💻 GitHub: [github.com/mathankpv](https://github.com/mathankpv)  
 
 ---
