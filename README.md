@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Mathan P</h1>
-<h3 align="center">Java Full Stack Developer | Passionate about building scalable and efficient software solutions</h3>
+<h3 align="center"> Full Stack Developer | Passionate about building scalable and efficient software solutions</h3>
 
 ---
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🎯 Career Objective  
-Aspiring **Java Full Stack Developer** skilled in Core Java, Spring Boot, JSP/Servlet, React, and MySQL. Passionate about designing scalable and efficient applications while expanding expertise in cloud and distributed systems. Known for writing clean, maintainable code and quickly adapting to new frameworks.  
+Aspiring **Full Stack Developer** skilled in Core Java, Spring Boot, JSP/Servlet, React, Html,Css and MySQL. Passionate about designing scalable and efficient applications while expanding expertise in cloud and distributed systems. Known for writing clean, maintainable code and quickly adapting to new frameworks.  
 
 ---
 
