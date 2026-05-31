@@ -1,91 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mathan P</h1> <h3 align="center">Java Full Stack Developer | Spring Boot | React.js | MySQL</h3> <p align="center"> Passionate Full Stack Developer with experience in building scalable web applications using Java, Spring Boot, React.js, JSP, Servlet, JDBC, and MySQL. </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathankpv&label=Profile%20Views&color=0e75b6&style=flat" alt="mathankpv" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mathankpv&theme=flat&margin-w=15" alt="mathankpv" /> </a> </p> ## 🚀 About Me - 💼 Java Full Stack Trainer at Infibee Technologies - 🔭 Currently working on Full Stack & E-Commerce Applications - 🌱 Learning Spring Security, Hibernate/JPA, Microservices & AWS - 👨‍💻 Skilled in Java, Spring Boot, React.js, MySQL, JSP & Servlet - 👨‍🏫 Mentoring students in Java Full Stack Development - 📫 Reach me at: **mathan.kpv@gmail.com**
 
-<!--
-**mathankpv/mathankpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Mathan P</h1>
-<h3 align="center"> Full Stack Developer | Passionate about building scalable and efficient software solutions</h3>
-
----
-
-### 📞 Contact  
-📍 Kodambakkam, Chennai | 📞 +91-90875 54572 | 📧 mathan.kpv@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mathan-kpv) | 💻 [GitHub](https://github.com/mathankpv)  
-
----
-
-### 🎯 Career Objective  
-Aspiring **Full Stack Developer** skilled in Core Java, Spring Boot, JSP/Servlet, React, Html,Css and MySQL. Passionate about designing scalable and efficient applications while expanding expertise in cloud and distributed systems. Known for writing clean, maintainable code and quickly adapting to new frameworks.  
-
----
-
-### 🎓 Education  
-- **MBA – Marketing (2023 – 2025)**  
-  Bharathidasan University, Tiruchirappalli  
-
-- **B.Sc Chemistry – First Class (2018 – 2021)**  
-  Raak Arts and Science College, Perambai  
-
----
-
-### 🛠 Technical Skills  
-- **Languages:** Java, JavaScript (ES6+), SQL, HTML5, CSS3  
-- **Backend:** Spring, Spring Boot, REST APIs, JSP, Servlet  
-- **Frontend:** React.js, Bootstrap, TailwindCSS  
-- **Database:** MySQL  
-- **Tools/IDEs:** Git, Maven, Eclipse, IntelliJ IDEA, VS Code  
-- **DevOps:** GitHub, GitHub Actions (basic)  
-- **Testing:** Postman  
-
----
-
-### 📂 Projects  
-
-**Bank Management System (Console-based, Java 7 & 8)**  
-- Developed a console-based banking application with multi-role access (**Admin, Staff, Customer, ATM**).  
-- Features: deposits, withdrawals, transfers, balance inquiry, mini statements.  
-- **Tech:** Core Java (OOP, Collections, Exception Handling), Java 7 & 8 (Streams, Lambdas), File I/O  
-- **Key:** Modular architecture, transaction validation, reusable utilities for authentication & logging.  
-
-**Online Course Management System (Web-based, JSP & Servlet)**  
-- Built a CRUD-based course management platform with **Admin** and **Student** modules.  
-- Features: course creation, updates, enrollments, student registration.  
-- **Tech:** JSP, Servlet, JDBC, MySQL, MVC Architecture, HTML, CSS  
-- **Key:** Designed MVC architecture, integrated MySQL with JDBC, role-based functionality for admins & students.  
-
----
-
-### 💡 Other Skills  
-- Problem-Solving & Analytical Thinking  
-- API Development & Integration  
-- Version Control (**Git, GitHub**)  
-- Debugging & Performance Optimization  
-
----
-
-### 📊 Additional Skills  
-- MS Excel (Pivot, Charts, Reports)  
-- MS Word & PowerPoint (Reports, Documentation, Presentations)  
-- Documentation & Office Productivity  
-
----
-
-### 📈 GitHub Stats  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mathankpv&show_icons=true&locale=en" alt="mathankpv" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathankpv&show_icons=true&layout=compact" alt="mathankpv" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathankpv&" alt="mathankpv" />
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mathankpv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mathankpv" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathankpv&show_icons=true&locale=en&layout=compact" alt="mathankpv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathankpv&show_icons=true&locale=en" alt="mathankpv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathankpv&" alt="mathankpv" /></p>
+
+
