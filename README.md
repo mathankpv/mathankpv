@@ -18,6 +18,14 @@
 
 
 
-## 📂 Featured Projects ### 🛒 Grocery Billing Software **Tech Stack:** React.js - Product Management - Dynamic Billing System - Automatic Total Calculation - Responsive User Interface ### 💼 Job Portal Application **Tech Stack:** Spring Boot, MySQL - User Authentication - Job Posting Management - Applicant Tracking - REST API Development - CRUD Operations ### 🚚 Zepto Clone **Tech Stack:** HTML, CSS, Bootstrap, JavaScript - Responsive Design - Interactive Navigation - Modern Grocery Delivery UI ## 🎓 Education **MBA (Marketing)** Bharathidasan University | 2025 **B.Sc** Raak Arts and Science College | 2021 ## 📜 Certification **Java Full Stack Development** UNIQ Technologies - Core Java - JDBC - JSP & Servlet - Spring Framework - Spring Boot - React.js - MySQL - REST APIs ## 📊 GitHub Statistics <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathankpv&show_icons=true&locale=en&layout=compact" alt="mathankpv" /> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathankpv&show_icons=true&locale=en" alt="mathankpv" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathankpv" alt="mathankpv" /> </p> ## 🤝 Connect With Me 📧 Email: **mathan.kpv@gmail.com** ⭐ "Building scalable applications, mentoring developers, and continuously learning new technologies."
+## 📂 Featured Projects 
+### 🛒 Grocery Billing Software 
+**Tech Stack:** React.js 
+- Product Management
+- Dynamic Billing System
+- Automatic Total Calculation
+- Responsive User Interface
+
+### 💼 Job Portal Application **Tech Stack:** Spring Boot, MySQL - User Authentication - Job Posting Management - Applicant Tracking - REST API Development - CRUD Operations ### 🚚 Zepto Clone **Tech Stack:** HTML, CSS, Bootstrap, JavaScript - Responsive Design - Interactive Navigation - Modern Grocery Delivery UI ## 🎓 Education **MBA (Marketing)** Bharathidasan University | 2025 **B.Sc** Raak Arts and Science College | 2021 ## 📜 Certification **Java Full Stack Development** UNIQ Technologies - Core Java - JDBC - JSP & Servlet - Spring Framework - Spring Boot - React.js - MySQL - REST APIs ## 📊 GitHub Statistics <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathankpv&show_icons=true&locale=en&layout=compact" alt="mathankpv" /> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathankpv&show_icons=true&locale=en" alt="mathankpv" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathankpv" alt="mathankpv" /> </p> ## 🤝 Connect With Me 📧 Email: **mathan.kpv@gmail.com** ⭐ "Building scalable applications, mentoring developers, and continuously learning new technologies."
 
 
