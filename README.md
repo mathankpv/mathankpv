@@ -39,7 +39,10 @@
 - Responsive Design
 - Interactive Navigation
 - Modern Grocery Delivery UI
-## 🎓 Education **MBA (Marketing)** Bharathidasan University | 2025 **B.Sc** Raak Arts and Science College | 2021 
+## 🎓 Education 
+
+**MBA (Marketing)** Bharathidasan University | 2025 
+**B.Sc** Raak Arts and Science College | 2021 
 
 ## 📜 Certification **Java Full Stack Development** 
 UNIQ Technologies - Core Java - JDBC - JSP & Servlet - Spring Framework - Spring Boot - React.js - MySQL - REST APIs ## 
